@@ -1,4 +1,6 @@
 # Portfolio Optimisation Using Factors
+*Part of the Udacity nanodegree - AI for Trading*
+
 
 See final results [here](final_results.html)
 
